@@ -1,7 +1,4 @@
-﻿program zad1;
-var S, R: real;
-begin
-  writelnprogram zad1;
+program zad1;
 var S, R: real;
 begin
   write ('Введите радиус');
