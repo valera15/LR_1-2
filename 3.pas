@@ -5,5 +5,4 @@ begin
   readln(b,c);
   a:= sqrt(sqr(b)*sqr(c));
   writeln ('Длина гипотенузы равна ', a);
-  
 end.
